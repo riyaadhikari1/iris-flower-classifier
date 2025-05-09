@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+matplotlib
+seaborn
+joblib
+streamlit
+numpy
+scipy 
+pillow
+tensorflow

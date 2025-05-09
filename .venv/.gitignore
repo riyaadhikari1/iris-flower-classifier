@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+outputs/
+
+# Streamlit logs
+*.log
+
+# Model
+*.pkl
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
